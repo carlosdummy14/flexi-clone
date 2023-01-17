@@ -1,5 +1,5 @@
 import { MenuOption } from './components'
-import { keysSubMenus, redTags } from './components/utils/utils'
+import { keysSubMenus, redTags } from './components/utils'
 
 function MenuBar() {
   return (

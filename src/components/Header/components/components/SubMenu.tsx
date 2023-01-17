@@ -1,4 +1,4 @@
-import { subMenus } from './utils/utils'
+import { subMenus } from './utils'
 
 interface SubMenuProps {
   menu: string
