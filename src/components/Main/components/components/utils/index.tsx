@@ -17,6 +17,11 @@ import Image119104 from '../../../../../assets/119104-tabaco-derecha.webp'
 import Image404604 from '../../../../../assets/404604-negro-comp-der.webp'
 import Image704702 from '../../../../../assets/704702-cafe-derecha.avif'
 
+import truckIcon from '../../../../../assets/truck-solid.webp'
+import shieldIcon from '../../../../../assets/shield-alt-solid.webp'
+import exchangeIcon from '../../../../../assets/exchange-alt-solid.webp'
+import saveringIcon from '../../../../../assets/life-ring-solid.webp'
+
 export const boxesDama = [
   {
     img: BotasDamaBoxImage,
@@ -108,5 +113,28 @@ export const wowCards = [
     img: Image704702,
     title: 'Image704702',
     price: 123.23,
+  },
+]
+
+export const information = [
+  {
+    image: truckIcon,
+    title: 'envío gratis',
+    text: 'En todas las compras #CÓMODOENCASA',
+  },
+  {
+    image: shieldIcon,
+    title: 'compra segura',
+    text: 'Tu compra es 100% segura',
+  },
+  {
+    image: exchangeIcon,
+    title: 'devoluciones',
+    text: '30 días a partir de tu compra',
+  },
+  {
+    image: saveringIcon,
+    title: 'soporte',
+    text: 'Te ayudamos en todas tus dudas',
   },
 ]

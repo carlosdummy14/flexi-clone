@@ -1,5 +1,7 @@
 export { default as Arrow } from './Arrow'
 export { default as Box } from './Box'
+export { default as Card } from './Card'
 export { default as Carrousel } from './Carrousel'
+export { default as Info } from './Info'
 export { default as Premier } from './Premier'
 export * from './utils'

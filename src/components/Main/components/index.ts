@@ -1,5 +1,6 @@
 export { default as Boxes } from './Boxes'
 export { default as Hero } from './Hero'
+export { default as InfoSection } from './InfoSection'
 export { default as WowSection } from './WowSection'
 export * from './components'
 export * from './components/utils'
