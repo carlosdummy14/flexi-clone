@@ -3,7 +3,7 @@ import Card from './Card'
 import Arrow from './Arrow'
 import { useEffect, useState } from 'react'
 
-const windowSize = document.
+// const windowSize = document.
 
 function Carrousel() {
   const [boxPosition, setBoxPosition] = useState(0)
