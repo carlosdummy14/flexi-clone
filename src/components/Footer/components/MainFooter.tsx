@@ -1,4 +1,4 @@
-import flexiLogo from '../../../assets/FLEXI-LOGO.webp'
+import flexiLogo from '../../../assets/flexi-logo.webp'
 
 import secure1Icom from '../../../assets/segure-img1.webp'
 import secure2Icom from '../../../assets/segure-img2.webp'

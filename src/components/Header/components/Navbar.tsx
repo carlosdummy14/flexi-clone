@@ -1,4 +1,4 @@
-import Logo from '../../../assets/FLEXI-LOGO.webp'
+import Logo from '../../../assets/flexi-logo.webp'
 import AccountIcon from '../../../assets/mi-cuenta.webp'
 import FavIcon from '../../../assets/lista-de-deseos.webp'
 import CartIcon from '../../../assets/carrito.webp'
