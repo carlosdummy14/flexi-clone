@@ -21,7 +21,7 @@ function Hero() {
   }
 
   return (
-    <div className='relative overflow-hidden'>
+    <div className='relative overflow-hidden max-w-7xl mx-auto'>
       <div
         className={`flex transition-transform duration-1000 ${
           moveSlice ? '-translate-x-full' : ''
