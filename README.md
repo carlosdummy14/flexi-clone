@@ -10,4 +10,4 @@ Technologies
 - TypeScript
 - Tailwind CSS
 
-![Flexi-clone-image]()
+![Flexi-clone-image](https://github.com/carlosdummy14/flexi-clone/blob/main/flexi-clone.JPG)
