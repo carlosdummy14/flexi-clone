@@ -1,3 +1,4 @@
+import { Footer } from './components/Footer'
 import { Header } from './components/Header'
 import { Main } from './components/Main'
 
@@ -6,7 +7,7 @@ function App() {
     <div className='flex flex-col items-center'>
       <Header />
       <Main />
-      <h3 className='text-3xl font-bold underline'>Flexi clone</h3>
+      <Footer />
     </div>
   )
 }
