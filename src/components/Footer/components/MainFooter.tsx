@@ -12,11 +12,11 @@ import twitterIcon from '../../../assets/red-twi.webp'
 
 function MainFooter() {
   return (
-    <div className=' border-b border-t border-gray-400 flex justify-between px-8 py-10'>
+    <div className='border-b border-t border-gray-400 flex flex-col gap-3 md:flex-row md:gap-0 justify-between px-8 py-10'>
       <div className='flex items-center'>
         <img className='w-28' src={flexiLogo} alt='flexi' />
       </div>
-      <div className=''>
+      <div>
         <h3 className='uppercase font-bold'>nosotros</h3>
         <ul>
           <li>Historia, Misión y Válores</li>
@@ -51,7 +51,7 @@ function MainFooter() {
         </ul>
       </div>
       <div>
-        <div className=''>
+        <div>
           <h3 className='uppercase font-bold'>compra seguro</h3>
           <div className='grid grid-cols-2 gap-5 py-3'>
             <img src={secure1Icom} alt='compra seguro' />
@@ -59,7 +59,7 @@ function MainFooter() {
             <img src={secure3Icom} alt='compra seguro' />
           </div>
         </div>
-        <div className=''>
+        <div>
           <h3 className='uppercase font-bold'>síguenos</h3>
           <div className='flex gap-3 py-3'>
             <img src={facebookIcon} alt='facebook' />

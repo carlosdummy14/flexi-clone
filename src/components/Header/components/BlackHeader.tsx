@@ -16,7 +16,7 @@ const BlacHeader = () => {
           <Space />
           <div className='ml-4'>
             idioma
-            <a href='#' className=''>
+            <a href='#'>
               <img
                 src={MexFlag}
                 alt='idioma español'

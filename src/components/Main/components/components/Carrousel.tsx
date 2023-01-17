@@ -3,8 +3,6 @@ import Card from './Card'
 import Arrow from './Arrow'
 import { useEffect, useState } from 'react'
 
-// const windowSize = document.
-
 function Carrousel() {
   const [boxPosition, setBoxPosition] = useState(0)
   const [boxesSize, setBoxesSize] = useState(0)
@@ -14,8 +12,6 @@ function Carrousel() {
 
   const handleRigthArrow = () =>
     boxPosition > 0 ? setBoxPosition(prev => prev - 1) : setBoxPosition(boxesSize - 2)
-
-  console.log(boxPosition, boxesSize)
 
   useEffect(() => {
     setBoxesSize(wowCards.length - 1)

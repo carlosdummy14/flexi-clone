@@ -21,7 +21,7 @@ function SubMenu({ menu, visible }: SubMenuProps) {
           )
         })}
       </ul>
-      <div className=''>
+      <div>
         <img className='max-w-xs' src={subMenus[menu].img} alt={menu} />
       </div>
     </div>
