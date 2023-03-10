@@ -2,6 +2,8 @@
 
 This project is only for learn and is a clone of UI of [www.flexi.com.mx](www.flexi.com.mx).
 
+Just clone the repo and run in local.
+
 Technologies
 
 - pnpm
